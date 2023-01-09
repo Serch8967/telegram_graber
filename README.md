@@ -3,6 +3,10 @@
 <br /><b>Посты с выбранных каналов будут мгновенно добавлены в наш канал</b>
 <br />Пример работы: https://t.me/MoscowWeekdays
 
+<a class="lightbox" id="main_image_full_82" href="https://tip-top10.ru/components/com_jshopping/files/img_products/full_telegram-grabber-avtoposter.png" title="Телеграм Grabber АВТОПОСТЕР">
+<img id="main_image_82" src="https://tip-top10.ru/components/com_jshopping/files/img_products/telegram-grabber-avtoposter.png" data-src="https://tip-top10.ru/components/com_jshopping/files/img_products/telegram-grabber-avtoposter.png" data-jchll="true" alt="Телеграм Grabber АВТОПОСТЕР" title="Телеграм Grabber АВТОПОСТЕР" class="lazy-loaded"><noscript>
+
+
 
 <br /><b>Функционал граббера</b>:
 <br />1)Замена фраз на свои фразы
