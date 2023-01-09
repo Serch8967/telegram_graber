@@ -1,4 +1,4 @@
-# telegram_graber
+# Telegram Grabber / Автопостер
 <b>Telegram Grabber / Автопостер</b>
 <br /><b>Посты с выбранных каналов будут мгновенно добавлены в наш канал</b>
 <br />Пример работы: https://t.me/MoscowWeekdays
